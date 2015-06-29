@@ -16,4 +16,9 @@ describe('#data_provider_cn Test', function () {
         expect(typeof(providers.name_cn('m'))).equal('string')
 
     });
+
+    it('address_cn()', function () {
+        expect(typeof(providers.address_cn('杭州'))).equal('string')
+        expect(typeof(providers.address_cn())).equal('string')
+    })
 })
