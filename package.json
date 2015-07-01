@@ -1,6 +1,6 @@
 {
-  "name": "mongoose-fakery",
-  "version": "0.1.7",
+  "name": "mongoose-fakery-cn",
+  "version": "0.0.1",
   "description": "Fixtures replacement and random data generator for mongoose.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alexmic/mongoose-fakery.git"
+    "url": "git@github.com/OKOKHA/mongoose-fakery-cn.git"
   },
   "keywords": [
     "mongoose",
@@ -20,7 +20,7 @@
     "stub",
     "unit"
   ],
-  "author": "Alex Michael",
+  "author": "Alex Michael waitfish",
   "license": "MIT",
   "devDependencies": {
     "chai": "1.5.x",
